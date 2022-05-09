@@ -1,0 +1,13 @@
+.page__register {
+  max-width: 358px;
+  margin: 60px auto;
+  text-align: center;
+  width: 100%;
+  flex: 1 0 auto;
+}
+
+@media screen and (max-width: 500px) {
+  .page__register {
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,155 @@
+/* сбрасываем стандартные стили */
+@import url(./vendor/normalize.css);
+/* подключаем шрифты */
+@import url(./fonts/fonts.css);
+/* устанавливаем фон странице */
+@import url(./blocks/body/body.css);
+
+/* центрируем контентную зону */
+@import url(./blocks/page/page.css);
+/* положение header */
+@import url(./blocks/page/__header/page__header.css);
+/* положение main */
+@import url(./blocks/page/__main/page__main.css);
+/* положение footer */
+@import url(./blocks/page/__footer/page__footer.css);
+/* положение register/login */
+@import url(./blocks/page/__register/page__register.css);
+
+/* шапка */
+@import url(./blocks/header/header.css);
+/* логотип */
+@import url(./blocks/header/__logo/header__logo.css);
+/* ссылка на логотипе, с заделом на будущее */
+@import url(./blocks/header/__logo-link/header__logo-link.css);
+/* контейнер с email и кнопкой выйти */
+@import url(./blocks/header/__info/header__info.css);
+/* email */
+@import url(./blocks/header/__email/header__email.css);
+/* кнопка выйти */
+@import url(./blocks/header/__button/header__button.css);
+/* ссылка вход/регистрация */
+@import url(./blocks/header/__link/header__link.css);
+/* кнопка Х */
+@import url(./blocks/header/__burger-close/header__burger-close.css);
+/* бургер */
+@import url(./blocks/header/__burger-button/header__burger-button.css);
+
+/* контентная часть сайта */
+@import url(./blocks/main/main.css);
+/* контейнер профиля */
+@import url(./blocks/main/__profile/main__profile.css);
+
+/* секция с профилем */
+@import url(./blocks/profile/profile.css);
+/* аватар */
+@import url(./blocks/profile/__avatar/profile__avatar.css);
+/* информация о пользователе, контейнер */
+@import url(./blocks/profile/__info/profile__info.css);
+/* имя пользователя */
+@import url(./blocks/profile/__name/profile__name.css);
+/* его описание */
+@import url(./blocks/profile/__job/profile__job.css);
+/* кнопка редактирования */
+@import url(./blocks/profile/__edit-button/profile__edit-button.css);
+/* кнопка добавить */
+@import url(./blocks/profile/__add-button/profile__add-button.css);
+
+/* секция с карточками */
+@import url(./blocks/elements/elements.css);
+/* список карточек */
+@import url(./blocks/elements/__list/elements__list.css);
+
+/* блок фото-карточки */
+@import url(./blocks/element/element.css);
+/* кнопка удаления */
+@import url(./blocks/element/__delete-button/element__delete-button.css);
+/* фото на карточках */
+@import url(./blocks/element/__photo/element__photo.css);
+/* контейнер для заголовка и кнопки */
+@import url(./blocks/element/__container/element__container.css);
+/* заголовок карточек */
+@import url(./blocks/element/__title/element__title.css);
+/* контейнер лайка */
+@import url(./blocks/element/__like-container/element__like-container.css);
+/* кнопка лайка */
+@import url(./blocks/element/__like-button/element__like-button.css);
+/* счётчик лайков */
+@import url(./blocks/element/__like-counter/element__like-counter.css);
+/* модификатор для закрашивания лайка */
+@import url(./blocks/element/__like-button/_active/element__like-button_active.css);
+
+/* блок footer, подвал */
+@import url(./blocks/footer/footer.css);
+/* текст с авторством */
+@import url(./blocks/footer/__copyright/footer__copyright.css);
+
+/* добавляем popup */
+@import url(./blocks/popup/popup.css);
+/* открывающий модификатор */
+@import url(./blocks/popup/_opened/popup_opened.css);
+/* модификатор более сильного затемнения */
+@import url(./blocks/popup/_opasity-high/popup_opasity-high.css);
+/* модификатор для лоадера */
+@import url(./blocks/popup/_loader/popup_loader.css);
+/* лоадер */
+@import url(./blocks/popup/__loader/popup__loader.css);
+/* контейнер поп-апа */
+@import url(./blocks/popup/__container/popup__container.css);
+/* контейнер попапа для фото на весь экран */
+@import url(./blocks/popup/__picture-container/popup__picture-container.css);
+/* фото внутри попапа */
+@import url(./blocks/popup/__photo/popup__photo.css);
+/* подпись для фото на весь экран */
+@import url(./blocks/popup/__photo-name/popup__photo-name.css);
+/* форма внутри поп-ап,а */
+@import url(./blocks/popup/__form/popup__form.css);
+/* контент внутри формы */
+@import url(./blocks/popup/__info/popup__info.css);
+/* заголовок формы */
+@import url(./blocks/popup/__title/popup__title.css);
+/* модификатор для центрового заголовка */
+@import url(./blocks/popup/__title/_center/popup__title_center.css);
+/* поле формы */
+@import url(./blocks/popup/__label/popup__label.css);
+/* окно ввода */
+@import url(./blocks/popup/__input/popup__input.css);
+/* модификатор для ошибки (закрашивает текст и рамку в случае ошибки) */
+@import url(./blocks/popup/__input/_has-error/popup__input_has-error.css);
+/* кнопка сохранения */
+@import url(./blocks/popup/__save-button/popup__save-button.css);
+/* модификатор для неактивной кнопки */
+@import url(./blocks/popup/__save-button/_disabled/popup__save-button_disabled.css);
+/* кнопка закрытия поп-ап,а */
+@import url(./blocks/popup/__close-button/popup__close-button.css);
+/* общий модификатор для всех Х */
+@import url(./blocks/popup/__close-button/_general/popup__close-button_general.css);
+/* стиль ошибки (span) */
+@import url(./blocks/popup/__error/popup__error.css);
+/* статус запроса шаблон */
+@import url(./blocks/popup/__status/popup__status.css);
+/* модификатор на успешный запрос */
+@import url(./blocks/popup/__status/_success/popup__status_success.css);
+/* модификатор на неудачный запрос */
+@import url(./blocks/popup/__status/_fail/popup__status_fail.css);
+
+/* страница авторизации */
+@import url(./blocks/register/register.css);
+/* заголовок */
+@import url(./blocks/register/__title/register__title.css);
+/* форма */
+@import url(./blocks/register/__form/register__form.css);
+/* филдсет формы */
+@import url(./blocks/register/__fieldset/register__fieldset.css);
+/* лейблы инпутов */
+@import url(./blocks/register/__label/register__label.css);
+/* поля формы */
+@import url(./blocks/register/__input/register__input.css);
+/* кнопка сабмита */
+@import url(./blocks/register/__button/register__button.css);
+/* модификатор входа */
+@import url(./blocks/register/__button/_disabled/register__button_disabled.css);
+/* Ссылка */
+@import url(./blocks/register/__link/register__link.css);
+/* Ошибка */
+@import url(./blocks/register/__error/register__error.css);

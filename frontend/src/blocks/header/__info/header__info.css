@@ -1,0 +1,16 @@
+.header__info {
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width:500px) {
+  .header__info {
+    width: 100%;
+    margin: 0 auto 28px;
+    flex-direction: column;
+    padding-top: 12px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(84, 84, 84, .7);
+    gap: 18px;
+  }
+}

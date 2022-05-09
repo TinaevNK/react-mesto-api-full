@@ -1,0 +1,12 @@
+.page__main {
+  margin: 37px auto 66px;
+  max-width: 880px;
+  width: 100%;
+  flex: 1 0 auto;
+}
+
+@media screen and (max-width: 500px) {
+  .page__main {
+    margin-bottom: 48px;
+  }
+}

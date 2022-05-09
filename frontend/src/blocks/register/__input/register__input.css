@@ -1,0 +1,27 @@
+.register__input {
+  background-color: black;
+  outline: none;
+  width: 100%;
+  padding: 2px 0 10px 0;
+  border: none;
+  border-bottom: 2px solid #CCCCCC;
+  font-size: 14px;
+  line-height: 1.214;
+  font-weight: 500;
+  font-style: normal;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  color: #FFFFFF;
+}
+
+.register__input:focus {
+  outline-style: solid;
+  outline-width: 2px;
+  border-radius: 2px;
+}
+
+::placeholder {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.214;
+  font-style: normal;
+}

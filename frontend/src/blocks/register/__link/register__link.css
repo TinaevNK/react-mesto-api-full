@@ -1,0 +1,21 @@
+.register__link {
+  text-decoration: none;
+  margin-top: 15px;
+  font-size: 14px;
+  line-height: 1.214;
+  font-style: normal;
+  font-weight: 400;
+  color: #FFFFFF;
+  display: block;
+  transition: opacity .3s ease;
+}
+
+.register__link:hover {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 500px) {
+  .register__link {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31b8e0bc.css",
+    "main.js": "/static/js/main.f121f40b.js",
+    "static/js/787.2df4b1c8.chunk.js": "/static/js/787.2df4b1c8.chunk.js",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.7ddb89dcdb33dd761944.woff",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.6db7e439cc4b0e5c0cd2.woff2",
+    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/avatar.png": "/static/media/avatar.50cc18bed245b833dba3.png",
+    "static/media/logo.svg": "/static/media/logo.bbe2a6eafac19c3d031c272c424875ca.svg",
+    "static/media/like-inactive.svg": "/static/media/like-inactive.1ad06e85f169668a1f36.svg",
+    "static/media/remove-button.svg": "/static/media/remove-button.e3c42771bff3aaa52f76.svg",
+    "static/media/fail.svg": "/static/media/fail.d4ce2a261b68c6da973d.svg",
+    "index.html": "/index.html",
+    "static/media/success.svg": "/static/media/success.a9eb6caf1da3ff48b215.svg",
+    "static/media/like-active.svg": "/static/media/like-active.35948469632d0421d697.svg",
+    "static/media/burger.svg": "/static/media/burger.ccf7020248ca1ffd1496.svg",
+    "static/media/edit-button.svg": "/static/media/edit-button.6c7bf05444b9793fdf6e.svg",
+    "static/media/close-button.svg": "/static/media/close-button.039f1f5203f653b4bacd.svg",
+    "static/media/add-button.svg": "/static/media/add-button.bed8c136e13907f5eefb.svg",
+    "main.31b8e0bc.css.map": "/static/css/main.31b8e0bc.css.map",
+    "main.f121f40b.js.map": "/static/js/main.f121f40b.js.map",
+    "787.2df4b1c8.chunk.js.map": "/static/js/787.2df4b1c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31b8e0bc.css",
+    "static/js/main.f121f40b.js"
+  ]
+}

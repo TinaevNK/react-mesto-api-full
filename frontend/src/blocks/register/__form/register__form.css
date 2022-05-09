@@ -1,0 +1,13 @@
+.register__form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 500px) {
+  .register__form {
+    max-width: 260px;
+  }
+}

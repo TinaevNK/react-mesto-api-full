@@ -1,0 +1,12 @@
+.popup__title_center {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+@media screen and (max-width:500px) {
+  .popup__title_center {
+    font-size: 20px;
+    line-height: 1.2;
+    margin-bottom: 25px;
+  }
+}
