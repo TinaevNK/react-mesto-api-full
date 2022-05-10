@@ -5,12 +5,6 @@
 /.pnp
 .pnp.js
 
-# testing
-/coverage
-
-# production
-/build
-
 # misc
 .DS_Store
 .env.local
@@ -29,6 +23,7 @@ npm-debug.log*
 
 # Dependency directory
 node_modules
+build
 
 # Optional npm cache directory
 .npm

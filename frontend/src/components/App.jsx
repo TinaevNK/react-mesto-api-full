@@ -72,7 +72,7 @@ function App() {
       api.renderUserAndCards()
         .then(([dataUserInfo, dataCards]) => {
           setCurrentUser(dataUserInfo);
-          setCards(dataCards.reverse());
+          setCards(dataCards);
         })
         .catch((err) => console.log(err))
         .finally(() => setIsLoader(false))
