@@ -5,7 +5,7 @@
 ### ***О чём проект?***
 
 Сервис предоставляет возможность делиться фотографиями и картинками.
-![Главная страница](https://pastenow.ru/72b67b146309da408e36e011e5a8da22)
+<p align="center"><a href="frontend.mesto.tinaevnk.nomoredomains.xyz" target="_blank"><img src="https://i2.paste.pics/GWAD5.png?trs=f95e73b2f9dad8580b322eff37a94598b8622de396abb43d7a60feb13b1c5177" width="700px"></a></p>
 
 ***В нём представлены:***
 
@@ -49,6 +49,6 @@
 
 ---
 ## Запуск проекта:
-* Ссылка на фронтенд - [перейти](frontend.mesto.tinaevnk.nomoredomains.xyz);
-* Запросы на бэкенд по адресу `https://backend.mesto.tinaevnk.nomoredomains.xyz`;
+* Ссылка на фронтенд - <a href="https://frontend.mesto.tinaevnk.nomoredomains.xyz" target="_blank">https://frontend.mesto.tinaevnk.nomoredomains.xyz</a>;
+* Запросы на бэкенд по адресу <a href="https://backend.mesto.tinaevnk.nomoredomains.xyz" target="_blank">https://backend.mesto.tinaevnk.nomoredomains.xyz</a>;
 * Публичный IP адрес сервера `51.250.23.182`.
