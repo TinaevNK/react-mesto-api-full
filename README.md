@@ -52,5 +52,3 @@
 * Ссылка на фронтенд - <a href="https://frontend.mesto.tinaevnk.nomoredomains.xyz" target="_blank">https://frontend.mesto.tinaevnk.nomoredomains.xyz</a>;
 * Запросы на бэкенд по адресу <a href="https://backend.mesto.tinaevnk.nomoredomains.xyz" target="_blank">https://backend.mesto.tinaevnk.nomoredomains.xyz</a>;
 * Публичный IP адрес сервера `51.250.23.182`.
-* [https://frontend.mesto.tinaevnk.nomoredomains.xyz](https://frontend.mesto.tinaevnk.nomoredomains.xyz){target="_blank"}
-* [Go to this page](https://frontend.mesto.tinaevnk.nomoredomains.xyz/?target=_blank)
