@@ -40,7 +40,8 @@
 * MongodDB.
 ---
 ## *Планы по доработке:*
-* Чтение токена из куки.
+* Чтение токена из куки;
+* Улучшить UI и UX (внести новый функционал и оптимизировать внешний вид).
 ## Директории:
 
 `/backend` — папка с бэк частью приложения;
@@ -49,6 +50,6 @@
 
 ---
 ## Запуск проекта:
-* Ссылка на фронтенд - <a href="https://frontend.mesto.tinaevnk.nomoredomains.xyz" target="_blank">https://frontend.mesto.tinaevnk.nomoredomains.xyz</a>;
-* Запросы на бэкенд по адресу <a href="https://backend.mesto.tinaevnk.nomoredomains.xyz" target="_blank">https://backend.mesto.tinaevnk.nomoredomains.xyz</a>;
+* [Ссылка](https://frontend.mesto.tinaevnk.nomoredomains.xyz) на фронтенд;
+* Запросы на бэкенд по [адресу](https://backend.mesto.tinaevnk.nomoredomains.xyz);
 * Публичный IP адрес сервера `51.250.23.182`.
