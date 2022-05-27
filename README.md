@@ -5,7 +5,7 @@
 ### ***О чём проект?***
 
 Сервис предоставляет возможность делиться фотографиями и картинками.
-<p align="center"><a href="https://frontend.mesto.tinaevnk.nomoredomains.xyz" target="_blank"><img src="https://i2.paste.pics/GWAD5.png?trs=f95e73b2f9dad8580b322eff37a94598b8622de396abb43d7a60feb13b1c5177" width="700px"></a></p>
+<p align="center"><a href="https://frontend.mesto.tinaevnk.nomoredomains.xyz" target="_blank"><img src="https://sun9-33.userapi.com/s/v1/ig2/2FwlffWG5khaKU0DeogqbahTrVgt7sGT2d3br0IYtq62kRHFSAZcBb5miOh0Cn4Pzg_sycALZyYxNi8Xuhl4Sjzc.jpg?size=970x932&quality=96&type=album" width="700px"></a></p>
 
 ***В нём представлены:***
 
